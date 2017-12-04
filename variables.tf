@@ -18,7 +18,7 @@ variable "aws_region_list" {
   }
 }
 variable "aws_profile" {
-  default = "temp"
+  default = "default"
 }
 variable "instance_type" {
   default = "t2.micro"
