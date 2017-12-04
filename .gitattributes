@@ -1,1 +1,2 @@
-*.rb linguist-language=Terraform
+*.tf linguist-language=Terraform
+*.sh Shell
